@@ -1,2 +1,3 @@
 # Clase-git
-Clase uso git
+
+Clase para entender como usasr git.
